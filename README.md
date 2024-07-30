@@ -1,4 +1,4 @@
-# programaconsqlite
+# FluttSQLite
 
 Programa sobre conexion con sqlite
 
